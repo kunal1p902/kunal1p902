@@ -1,4 +1,4 @@
-# kunalpati
+# kunalpatil
 <div align="center">
 
 <!-- ===== ANIMATED BANNER ===== -->
